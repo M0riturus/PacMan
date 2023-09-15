@@ -2,7 +2,7 @@ Pacman Exercise
 This README file provides an overview of the HTML project Pacman Exercise
 
 Pacman Exercise Overview
-The Pacman Exercise is a web applicatio that displays two buttons. One to create a pacman imagine at a random lacation on the screen and one to move all the created pacmen in different random directs. If they hit the edge of the screen they will change direction.
+The Pacman Exercise is a web application that displays two buttons. One to create a pacman imagine at a random location on the screen and one to move all the created pacmen in different random directs. If they hit the edge of the screen they will change direction.
 
 Files index.html: The main HTML file for this web application. PacMan1.pgn, PacMan2.pgn, PacMan3.pgn, PacMan4.pgn, The image files used to create pacman for this web application. pacman.js: The JavaScript file both the creation and movement of pacman
 
